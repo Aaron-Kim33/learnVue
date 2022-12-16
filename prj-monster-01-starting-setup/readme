@@ -1,0 +1,9 @@
+몬스터와의 간단한 전투게임.
+
+Attack, SpecialAttack, Heal, Surrender 총 4개의 선택지가 있다.
+
+SpecialAttack은 3턴마다 사용할 수 있으며 Surrender를 제외한 모든 선택지에서 몬스터가 반격한다.
+
+모든 BattleLog는 아래에 구현된다.
+
+전투가 끝나면 승패(혹은 무)를 알리는 메시지가 뜨고 게임을 다시 시작할 수 있다.
